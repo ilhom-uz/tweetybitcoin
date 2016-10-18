@@ -1,64 +1,64 @@
 body {
-	
+
 }
 
 
 .em-text{
-	color:#fff !important;
+    color:#fff !important;
 }
 
 .col-md-4{
-	margin-bottom: 20px;
+    margin-bottom: 20px;
 }
 
 .col-md-8{
-	margin-bottom: 80px;
-	padding-bottom: 80px;
+    margin-bottom: 80px;
+    padding-bottom: 80px;
 }
 
 section{
-	padding:40px 0 40px 0;
+    padding:40px 0 40px 0;
 }
 
 .jumbotron{
-	background:#1b222a url('/img/Top_Bg_2.jpg') no-repeat top center;
-	color: #fff;
-	height: 670px;
-	overflow: none;
+    background:#1b222a url('/img/Top_Bg_2.jpg') no-repeat top center;
+    color: #fff;
+    height: 670px;
+    overflow: none;
 
 }
 .jumbotron h1{
-	margin-top:200px;
-	text-align: center;
-	padding: 0 40px 0 40px;
+    margin-top:200px;
+    text-align: center;
+    padding: 0 40px 0 40px;
 
 }
 .jumbotron_cmp{
-	background:#1b222a url('/img/Top_Bg_short.jpg') no-repeat top center;
-	color: #fff;
-	height: 80px;
-	overflow: none;
+    background:#1b222a url('/img/Top_Bg_short.jpg') no-repeat top center;
+    color: #fff;
+    height: 80px;
+    overflow: none;
 
 }
 
 
 .navbar{
-	background: none !important;
-	background-color: transparent;
-   	background: transparent;
-   	border-color: transparent;
-   	color: #fff;
+    background: none !important;
+    background-color: transparent;
+    background: transparent;
+    border-color: transparent;
+    color: #fff;
 
 
 }
 
 .navbar li{
-	padding-top: 25px;
-	float: right;
-	list-style: none !important;
-	font-size: 22px;
-	font-style: none;
-	color: #fff !important;
+    padding-top: 25px;
+    float: right;
+    list-style: none !important;
+    font-size: 22px;
+    font-style: none;
+    color: #fff !important;
 
 }
 
@@ -67,154 +67,154 @@ section{
 }
 
 .jumbotron p{
-	margin-bottom: 40px;
+    margin-bottom: 40px;
 
 }
 .jumbotron img.app-btn{
-	width: 40%;
-	margin-right: 30px;
+    width: 40%;
+    margin-right: 30px;
 }
 
 .jumbotron img.showcase-img{
-	width: 100% !important;
+    width: 100% !important;
 }
 
 img.demo{
-	width: 100%;
-	padding: 3px;
-	border: 1px solid #ccc;
+    width: 100%;
+    padding: 3px;
+    border: 1px solid #ccc;
 }
 
 
 section#howitworks{
-	padding-top: 20px;
-		
+    padding-top: 20px;
+
 }
 section#howitworks h2{
-	text-align: center;
-	padding-bottom: 20px;
+    text-align: center;
+    padding-bottom: 20px;
 }
 
 section#howitworks p{
-	padding-bottom: 20px;
-	text-align: center;
+    padding-bottom: 20px;
+    text-align: center;
 }
 
 
 section#guide{
-	background:#fff url('/img/Guide.jpg') no-repeat top center;
-	color: #000;
+    background:#fff url('/img/Guide.jpg') no-repeat top center;
+    color: #000;
 
-	
-	
+
+
 }
 section#guide p{
-	padding: 40px 40px 10px 40px;
-	font-size: 22px;
-		
+    padding: 40px 40px 10px 40px;
+    font-size: 22px;
+
 }
 section#guide h1{
-	padding-bottom: 20px;
-	font-size: 48px;
-	text-align: left;
+    padding-bottom: 20px;
+    font-size: 48px;
+    text-align: left;
 }
 
 section#guide ul li{
-	padding-bottom: 40px;
+    padding-bottom: 40px;
 }
 
 section#guide ul{
-	margin: 0;
-	padding-bottom: 20px;
-	color: #000;
-	font-size: 22px;
+    margin: 0;
+    padding-bottom: 20px;
+    color: #000;
+    font-size: 22px;
 
 }
 
 section#campaigns{
-	background:#273C50 url('/img/campaign_bg.jpg') no-repeat top center;
-	color: #fff;
+    background:#273C50 url('/img/campaign_bg.jpg') no-repeat top center;
+    color: #fff;
 }
 
 section#campaigns h1{
-	text-align: center;
-	padding-bottom: 50px;
+    text-align: center;
+    padding-bottom: 50px;
 }
 
 section#campaigns p{
-	padding: 10px 0 10px 0;
+    padding: 10px 0 10px 0;
 }
 
 section#campaigns a{
-	text-align: right;
+    text-align: right;
 }
 
 section#campaigns .media-object{
-	width: 100%;
-	height: 100%;
-	max-width: 200px;
-	max-height:200px;
-	vertical-align: middle;
-	padding-bottom: 40px;
+    width: 100%;
+    height: 100%;
+    max-width: 200px;
+    max-height:200px;
+    vertical-align: middle;
+    padding-bottom: 40px;
 }
 .col-md-1{
-	float: right !important;
-	color: #fff;
-	margin-right: 20px;
-	
+    float: right !important;
+    color: #fff;
+    margin-right: 20px;
+
 }
 .col-md-2{
-	float: right !important;
-	color: #fff;
-	margin-right: 20px;
-	margin-left: 40px;
+    float: right !important;
+    color: #fff;
+    margin-right: 20px;
+    margin-left: 40px;
 }
 
 
 
 
 section#title-bar{
-	padding: 0;
-	margin: 0;
-	height:80px;
-	background:#1caa98;
-	color:#fff;
+    padding: 0;
+    margin: 0;
+    height:80px;
+    background:#1caa98;
+    color:#fff;
 }
 
 section#title-bar h1{
-	margin-bottom: 20px;
+    margin-bottom: 20px;
 
 }
 
 
 section#Register_Earn h1{
-	padding-bottom: 10px;
-	font-size: 48px;
-	text-align: center;
+    padding-bottom: 10px;
+    font-size: 48px;
+    text-align: center;
 }
 
 section#Register_Earn h5{
-	padding-bottom: 40px;
-	font-size: 20px;
-	text-align: center;
+    padding-bottom: 40px;
+    font-size: 20px;
+    text-align: center;
 }
 
 
 section#Register_Earn.btn{
-	padding:20px 40px 40px 20px`;
-	font-size: 48px;
-	text-align: center;
+    padding: 20px 40px 40px 20px;
+    font-size: 48px;
+    text-align: center;
 }
 
 section#Start_campaign form{
-	padding: 20px 10px 80px 50px;
-	text-align: left;
+    padding: 20px 10px 80px 50px;
+    text-align: left;
 
 }
 
 section#Start_campaign.col-xs-12{
-	padding-top: 50px;
-	text-align: left;
+    padding-top: 50px;
+    text-align: left;
 }
 
 section#Start_campaign h4{
@@ -222,21 +222,21 @@ section#Start_campaign h4{
 }
 
 footer{
-	background: #333;
-	color: #fff;
-	padding: 30px 0 20px 0;
+    background: #333;
+    color: #fff;
+    padding: 30px 0 20px 0;
 }
 footer li{
-	float: left;
-	padding: 0 10px 0 10px;
-	list-style: none;
+    float: left;
+    padding: 0 10px 0 10px;
+    list-style: none;
 }
 
 footer a{
-	color: #fff;
+    color: #fff;
 }
 footer p{
-	float: right;
+    float: right;
 }
 
 /* Adjust feedback icon position */
@@ -254,63 +254,58 @@ section#Start_campaign .selectContainer .form-control-feedback {
 }
 
 @media(max-width:991px){
-	.showcase-img{
-		display: none;
-	}
+    .showcase-img{
+        display: none;
+    }
 }
 
 @media(min-width:768px) and (max-width: 990px){
 
-.jumbotron img.app-btn{
-	width: 30%;
-}
+    .jumbotron img.app-btn{
+        width: 30%;
+    }
 
-.jumbotron{
-	height: 400px !important;
-	background-size: 100% 100%;
-}
+    .jumbotron{
+        height: 400px !important;
+        background-size: 100% 100%;
+    }
 
-.jumbotron h1{
-	margin-top: 10px;
-}
+    .jumbotron h1{
+        margin-top: 10px;
+    }
 }
 
 @media(max-width:768px){
 
-.jumbotron{
-	height: 350px !important;
-	background-size: 100% 100%;
-}
-.jumbotron h1{
-	margin-top: 10px;
-}
-	
+    .jumbotron{
+        height: 350px !important;
+        background-size: 100% 100%;
+    }
+    .jumbotron h1{
+        margin-top: 10px;
+    }
+
 }
 @media(max-width:500px){
 
-.jumbotron{
-	height: 450px !important;
-	background-size: 100% 100%;
-	background-image: none;
-	text-align: center;
+    .jumbotron{
+        height: 450px !important;
+        background-size: 100% 100%;
+        background-image: none;
+        text-align: center;
+    }
+
+    .jumbotron img.app-btn{
+        width: 60%;
+        margin:0 auto 30px auto;
+        display: block; 
+    }
+    section#feature ul li{
+        font-size: 19px !important;
+    }
+    footer p{
+        float: none;
+        text-align: center;
+        padding-top: 20px;
+    }
 }
-
-.jumbotron img.app-btn{
-	width: 60%;
-	margin:0 auto 30px auto;
-	display: block; 
-}
-section#feature ul li{
-	font-size: 19px !important;
-}
-footer p{
-	float: none;
-	text-align: center;
-	padding-top: 20px;
-}
-
-	*/
-
-
-
-

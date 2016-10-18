@@ -1,5 +1,4 @@
-<script>
-$(document).ready(function() {
+$(document).ready(function () {
     $('#movieForm').formValidation({
         framework: 'bootstrap',
         icon: {
@@ -106,4 +105,3 @@ $(document).ready(function() {
         }
     });
 });
-</script>
