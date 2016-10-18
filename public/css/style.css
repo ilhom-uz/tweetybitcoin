@@ -21,7 +21,7 @@ section{
 }
 
 .jumbotron{
-    background:#1b222a url('/img/Top_Bg_2.jpg') no-repeat top center;
+    background:#1b222a url('/static/img/Top_Bg_2.jpg') no-repeat top center;
     color: #fff;
     height: 670px;
     overflow: none;
@@ -34,7 +34,7 @@ section{
 
 }
 .jumbotron_cmp{
-    background:#1b222a url('/img/Top_Bg_short.jpg') no-repeat top center;
+    background:#1b222a url('/static/img/Top_Bg_short.jpg') no-repeat top center;
     color: #fff;
     height: 80px;
     overflow: none;
@@ -102,7 +102,7 @@ section#howitworks p{
 
 
 section#guide{
-    background:#fff url('/img/Guide.jpg') no-repeat top center;
+    background:#fff url('/static/img/Guide.jpg') no-repeat top center;
     color: #000;
 
 
@@ -132,7 +132,7 @@ section#guide ul{
 }
 
 section#campaigns{
-    background:#273C50 url('/img/campaign_bg.jpg') no-repeat top center;
+    background:#273C50 url('/static/img/campaign_bg.jpg') no-repeat top center;
     color: #fff;
 }
 

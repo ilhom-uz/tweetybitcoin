@@ -1,16 +1,35 @@
 {
-  "name": "TweetyBitcoin",
-  "version": "1.0.0",
-  "description": "This is tweetyBitcoin Project for Twitter campaigns",
-  "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js"
-  },
-  "author": "Ilkhom Karimov, Daneil Munoz",
-  "license": "MIT",
-  "dependencies": {
-    "express": "^4.14.0"
-  },
-  "engines": {"node": "6.7.0"}
+    "name": "TweetyBitcoin",
+    "version": "1.0.0",
+    "description": "This is tweetyBitcoin Project for Twitter campaigns",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node app.js"
+    },
+    "author": "Ilkhom Karimov, Daneil Munoz",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.14.0",
+        "ejs": "latest",
+        "mongoose": "4.5.9",
+        "passport": "latest",
+        "passport-local": "latest",
+        "passport-facebook": "~1.0.2",
+        "passport-twitter": "~1.0.2",
+        "passport-google-oauth": "latest",
+        "connect-flash": "latest",
+        "morgan": "~1.2.2",
+        "body-parser": "~1.5.2",
+        "method-override": "~2.1.2",
+        "async": "~2.0.0-rc.2",
+        "cookie-parser": "~1.0.0",
+        "method-override": "~1.0.0",
+        "express-session": "latest",
+        "connect-mongo": "latest",
+        "crypto": "latest"
+    },
+    "engines": {
+        "node": "6.7.0"
+    }
 }
