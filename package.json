@@ -20,7 +20,7 @@
         "passport-google-oauth": "latest",
         "connect-flash": "latest",
         "morgan": "~1.2.2",
-        "body-parser": "~1.5.2",
+        "body-parser": "latest",
         "method-override": "~2.1.2",
         "async": "~2.0.0-rc.2",
         "cookie-parser": "~1.0.0",

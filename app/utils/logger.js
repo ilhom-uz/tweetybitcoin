@@ -1,4 +1,4 @@
-var logEnabled = false;
+var logEnabled = true;
 
 var log = function log(message) {
     if (logEnabled)
