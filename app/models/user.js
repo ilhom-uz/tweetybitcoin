@@ -2,7 +2,8 @@
 // USER MODEL
 // =====================================
 var mongoose = require('mongoose');
-var userDB = mongoose.createConnection('mongodb://127.0.0.1/TweetyUsers');
+var configDB = require('../.././config/database.js');
+var userDB = mongoose.createConnection(configDB.url);
 var crypto = require('crypto');
 
 // Define the schema for user model
