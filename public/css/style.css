@@ -132,7 +132,7 @@ section#guide ul{
 }
 
 section#campaigns{
-    background:#273C50 url('/static/img/campaign_bg.jpg') no-repeat top center;
+    background:#273C50 url('/static/img/campaign_bg_1920.jpg') no-repeat top center;
     color: #fff;
 }
 
@@ -205,9 +205,12 @@ section#Register_Earn.btn{
     font-size: 48px;
     text-align: center;
 }
+section#Register_Earn{
+    padding-bottom: 70px;
+}
 
 section#Start_campaign form{
-    padding: 20px 10px 80px 50px;
+
     text-align: left;
 
 }
@@ -247,6 +250,9 @@ section#Start_campaign .selectContainer .form-control-feedback {
     right: 25px;
 }
 
+section#Start_campaign{
+    padding-bottom:140px;
+}
 
 /* MEDIA QUERIES */
 @media(max-width:1200px){
@@ -311,4 +317,20 @@ section#Start_campaign .selectContainer .form-control-feedback {
         text-align: center;
         padding-top: 20px;
     }
+}
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 80px;
 }
