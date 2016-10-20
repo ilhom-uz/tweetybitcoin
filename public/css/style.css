@@ -21,7 +21,7 @@ section{
 }
 
 .jumbotron{
-    background:#1b222a url('/static/img/Top_Bg_2.jpg') no-repeat top center;
+    background:#1b222a url('/static/img/Top_Background.jpg') no-repeat top center;
     color: #fff;
     height: 670px;
     overflow: none;
@@ -102,7 +102,7 @@ section#howitworks p{
 
 
 section#guide{
-    background:#fff url('/static/img/Guide.jpg') no-repeat top center;
+    background:#fff url('/static/img/Guide_1920.jpg') no-repeat top center;
     color: #000;
 
 
@@ -262,15 +262,18 @@ section#Start_campaign .selectContainer .form-control-feedback {
 @media(min-width:768px) and (max-width: 990px){
 
     .jumbotron img.app-btn{
-        width: 30%;
+        font-size: 19px !important;
+        height: 400px !important;
+        width: 100%;
     }
 
     .jumbotron{
-        height: 400px !important;
+        height: 350px !important;
         background-size: 100% 100%;
     }
 
     .jumbotron h1{
+        font-size: 36px !important;
         margin-top: 10px;
     }
 }
