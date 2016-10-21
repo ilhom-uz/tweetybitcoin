@@ -1,7 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <%include partials/head%>
+        <%include partials/head%>     
+        
+        <!-- javascript include -->
+        <script type="text/javascript" src="static/js/jquery.min.js"></script>
+        <script type="text/javascript" src="static/js/jquery-ui.min.js"></script>
+        <script type="text/javascript" src="static/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="static/js/bootstrap-multiselect.js"></script>
+        <script type="text/javascript" src="static/js/jquery.fullPage.min.js"></script>        
+
+        <script type="text/javascript">
+            $(document).ready(function () {
+
+                /* login/signup/profile event */
+                var loggenIn = '<%= userInfo.isLoggedIn %>';               
+
+                if (loggenIn === 'true') {
+                    $("#registerButton").hide();
+                    $("#signInButton").hide();
+                } else {
+                    $("#signOutButton").hide();
+                }
+            });
+        </script>        
     </head>
 
     <body>
@@ -11,7 +33,7 @@
                 <div class="row">
 
                     <!-- partials/navbar.ejs-->
-                    <%include partials/navbar%>
+                    <%include partials/navbar%> 
 
 
                 </div>
@@ -231,7 +253,7 @@
 </section>
 
 <!-- partials/footer.ejs-->
-        <%include partials/footer%>
+<%include partials/footer%>
 
 <!-- Bootstrap core JavaScript
 ================================================== -->
